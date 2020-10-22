@@ -6,13 +6,10 @@
 <!--START_SECTION:waka-->
 ## 📬 Vamos manter contato
 
-[1]:[Pagina](https://mauroes.github.io/mauroes/)
--[LinkedIn](https://www.linkedin.com/in/mauricio-silva-068b418b/)
--[Medium](https://medium.com/@mauricioes.inf)
+1.Pagina https://mauroes.github.io/mauroes/
+2.LinkedIn https://www.linkedin.com/in/mauricio-silva-068b418b/
+3.Medium https://medium.com/@mauricioes.inf
 
-
-
-👉🏻👉🏻📧 Sign up for my [newsletter][5].
 
 ## :zap: Recent Activity
 
