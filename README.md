@@ -13,7 +13,7 @@
     - Projeto 02
     - Projeto 03
    ### Python
-    - Comando Básicos em Python
+    - Comando Básicos em Python - Python1.ipynb
     - Projeto 02
     - Projeto 03
 
