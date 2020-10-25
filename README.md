@@ -5,7 +5,9 @@
   
 ## 📬 Alguns Projetos
    ### Visualização de dados
-   - Visualização de dados
+    - Projeto 01
+    - Projeto 02
+    - Projeto 03
 
 ## 📬 Vamos manter contato
 
