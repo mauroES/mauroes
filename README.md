@@ -2,7 +2,7 @@
 
 ## Sobre
 <p> Eu sou Engenheiro de software e entusiasta no mundo dos dados.
-  
+*** 
 ## 📬 Alguns Projetos
    ### Visualização de dados
     - Projeto 01 - Descrecer aqui link 
@@ -13,17 +13,17 @@
     - Projeto 02
     - Projeto 03
    ### Python
-     Comando Básicos em Python (https://github.com/mauroES/Python/blob/master/Python1.ipynb)
+    - Comando Básicos em Python [https://github.com/mauroES/Python/blob/master/Python1.ipynb]
     - Projeto 02
     - Projeto 03
-
+***
 ## 📬 Vamos manter contato
 
 1. Pagina - https://github.com/mauroES
 2. LinkedIn - https://www.linkedin.com/in/mauricio-silva-068b418b/
 3. Medium - https://medium.com/@mauricioes.inf
 
-
+***
 ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauricio-silva-068b418b/)
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)
