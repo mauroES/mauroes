@@ -5,16 +5,11 @@
 
 ## Alguns Projetos:heart_decoration: :student:
    ### Visualização de dados
-    - Projeto 01 - Descrecer aqui link 
-    - Projeto 02
-    - Projeto 03
+    - Projeto 01 - link 
    ### Data Science
-    - Projeto 01 - Descrecer aqui link 
-    - Projeto 02
-    - Projeto 03
+    - Projeto 01 - link 
    ### Python
-    1. Comando Básicos em Python -
-    https://github.com/mauroES/Python/blob/master/Python1.ipynb
+    *.[Comando Básicos em Python]https://github.com/mauroES/Python/blob/master/Python1.ipynb
     - Projeto 02
     - Projeto 03
     
