@@ -3,7 +3,7 @@
 ## Sobre
 <p> Eu sou Engenheiro de software e entusiasta no mundo dos dados.
 
-## :heart_decoration: Alguns Projetos:heart_decoration:
+## Alguns Projetos:heart_decoration: :student:
    ### Visualização de dados
     - Projeto 01 - Descrecer aqui link 
     - Projeto 02
