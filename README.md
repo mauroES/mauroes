@@ -13,7 +13,7 @@
     - Projeto 02
     - Projeto 03
    ### Python
-    - Projeto 01 - Descrecer aqui link 
+    - Comando Básicos em Python
     - Projeto 02
     - Projeto 03
 
