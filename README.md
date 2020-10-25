@@ -13,7 +13,7 @@
     - Projeto 02
     - Projeto 03
    ### Python
-    - Comando Básicos em Python (https://github.com/mauroES/Python/blob/master/Python1.ipynb)
+     Comando Básicos em Python (https://github.com/mauroES/Python/blob/master/Python1.ipynb)
     - Projeto 02
     - Projeto 03
 
