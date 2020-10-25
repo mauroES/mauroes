@@ -9,10 +9,8 @@
    ### Data Science
     - Projeto 01 - link 
    ### Python
-    *.[https://github.com/mauroES/Python/blob/master/Python1.ipynb].(#Comando Básicos em Python)
+    *[https://github.com/mauroES/Python/blob/master/Python1.ipynb](#Comando Básicos em Python)
     - Projeto 02
-    - Projeto 03
-    
     =================
 <!--ts-->
    * [Sobre](#Sobre)
@@ -27,17 +25,6 @@
    * [Tests](#testes)
    * [Tecnologias](#tecnologias)
 <!--te-->
-
-
-<p align="center">
- <a href="#objetivo">Objetivo</a> •
- <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
-</p>
-    
 
 ## 📬 Vamos manter contato
 
