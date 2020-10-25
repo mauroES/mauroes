@@ -12,7 +12,7 @@
     - Projeto 01 - Descrecer aqui link 
     - Projeto 02
     - Projeto 03
-   ### Visualização de dados
+   ### Python
     - Projeto 01 - Descrecer aqui link 
     - Projeto 02
     - Projeto 03
