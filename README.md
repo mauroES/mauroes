@@ -8,7 +8,7 @@
     - Projeto 01 - link 
    ### Data Science
     - Projeto 01 - link 
-   -### Python
+   ### - Python
     1. Comando Básicos Python - https://github.com/mauroES/Python/blob/master/Python1.ipynb
    
 ## 📬 Vamos manter contato
