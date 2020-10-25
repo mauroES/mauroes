@@ -5,7 +5,7 @@
   
 ## 📬 Alguns Projetos
    ### Visualização de dados
-    - Projeto 01
+    - Projeto 01 - Descrecer aqui link 
     - Projeto 02
     - Projeto 03
 
