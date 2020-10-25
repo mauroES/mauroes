@@ -2,7 +2,7 @@
 
 ## Sobre
 <p> Eu sou Engenheiro de software e entusiasta no mundo dos dados.
-*** 
+
 ## 📬 Alguns Projetos
    ### Visualização de dados
     - Projeto 01 - Descrecer aqui link 
@@ -16,7 +16,7 @@
     - Comando Básicos em Python [https://github.com/mauroES/Python/blob/master/Python1.ipynb]
     - Projeto 02
     - Projeto 03
-***
+
 ## 📬 Vamos manter contato
 
 1. Pagina - https://github.com/mauroES
