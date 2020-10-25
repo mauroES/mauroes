@@ -2,8 +2,14 @@
 
 ## Sobre
 <p> Eu sou Engenheiro de software e entusiasta no mundo dos dados.
+  
+## 📬 Alguns Projetos
 
-<!--START_SECTION:waka-->
+
+### Visualização de dados
+
+
+
 ## 📬 Vamos manter contato
 
 1. Pagina - https://github.com/mauroES
