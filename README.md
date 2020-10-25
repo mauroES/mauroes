@@ -9,22 +9,8 @@
    ### Data Science
     - Projeto 01 - link 
    ### Python
-   1. Comando Básicos Python - https://github.com/mauroES
-    =================
-<!--ts-->
-   * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
-<!--te-->
-
+   1. Comando Básicos Python - https://github.com/mauroES/Python/blob/master/Python1.ipynb
+   
 ## 📬 Vamos manter contato
 
 1. Pagina - https://github.com/mauroES
