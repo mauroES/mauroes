@@ -8,6 +8,14 @@
     - Projeto 01 - Descrecer aqui link 
     - Projeto 02
     - Projeto 03
+   ### Data Science
+    - Projeto 01 - Descrecer aqui link 
+    - Projeto 02
+    - Projeto 03
+   ### Visualização de dados
+    - Projeto 01 - Descrecer aqui link 
+    - Projeto 02
+    - Projeto 03
 
 ## 📬 Vamos manter contato
 
