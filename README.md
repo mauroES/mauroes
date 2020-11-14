@@ -5,11 +5,11 @@
 
 ## Alguns Projetos:heart_decoration: :student:
    ### Visualização de dados
-    - Projetos 
+    - 
    ### Data Science
-    - Projetos
+    - 
    ### Python
-   1. Comando Básicos Python 
+   1. Comandos Básicos Python 
 ## 📬 Vamos manter contato
 
 1. Pagina - https://github.com/mauroES
